@@ -1,22 +1,23 @@
 {
     "name": "OVOToken",
     "symbol": "OVO",
-    "uri": "https://example.com/path/to/your/OVOToken-metadata.json",
+    "uri": "https://raw.githubusercontent.com/moinizzle/solana/master/OVOToken/public/OVOToken-metadata.json",
     "seller_fee_basis_points": 500,
     "properties": {
       "files": [
         {
-          "uri": "https://example.com/path/to/your/OVOToken-image.png",
+          "uri": "https://github.com/moinizzle/solana/blob/master/OVOToken/public/e1a02e22-d58b-4127-8433-5beabfaf0a5c.png?raw=true",
           "type": "image/png"
         }
       ],
       "category": "image",
       "creators": [
         {
-          "address": "Your Solana Wallet Address Here",
+          "address": "3pMacZtVPcjnZNXg1vXy42hWhsAAay8NYP9x8VvQcX2h",
           "share": 100
         }
       ]
-    }
+    },
+    "description": "October's Very Own. You Only Live Once."
   }
   
