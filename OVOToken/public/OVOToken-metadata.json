@@ -1,0 +1,22 @@
+{
+    "name": "OVOToken",
+    "symbol": "OVO",
+    "uri": "https://example.com/path/to/your/OVOToken-metadata.json",
+    "seller_fee_basis_points": 500,
+    "properties": {
+      "files": [
+        {
+          "uri": "https://example.com/path/to/your/OVOToken-image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "Your Solana Wallet Address Here",
+          "share": 100
+        }
+      ]
+    }
+  }
+  
