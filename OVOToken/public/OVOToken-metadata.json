@@ -3,7 +3,6 @@
     "symbol": "OVO",
     "image": "https://gateway.irys.xyz/fX0WRJtbaC7x4J_LjPyi0KkVMX4kiDryx0yzYo-Cl1A",
     "uri": "https://raw.githubusercontent.com/moinizzle/solana/master/OVOToken/public/OVOToken-metadata.json",
-    "seller_fee_basis_points": 500,
     "properties": {
       "files": [
         {
