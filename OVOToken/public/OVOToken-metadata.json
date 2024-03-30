@@ -1,6 +1,7 @@
 {
     "name": "OVOToken",
     "symbol": "OVO",
+    "image": "https://node1.irys.xyz/AVZnDCaYs1bhr4lBQEZBQNyz4kh_xGRkeMD5HnaXsxc",
     "uri": "https://raw.githubusercontent.com/moinizzle/solana/master/OVOToken/public/OVOToken-metadata.json",
     "seller_fee_basis_points": 500,
     "properties": {
