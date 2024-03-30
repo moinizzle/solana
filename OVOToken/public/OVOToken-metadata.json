@@ -1,7 +1,7 @@
 {
     "name": "OVOToken",
     "symbol": "OVO",
-    "image": "https://preview.redd.it/m74a2vmskp291.jpg?width=1080&crop=smart&auto=webp&s=12db15ccf4b9c83b6903a19a09c347b9bedf1944",
+    "image": "https://i.pinimg.com/564x/71/25/96/712596eee2ea0bd5e88742586773b6ed.jpg",
     "uri": "https://raw.githubusercontent.com/moinizzle/solana/master/OVOToken/public/OVOToken-metadata.json",
     "seller_fee_basis_points": 500,
     "properties": {
