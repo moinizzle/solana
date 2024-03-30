@@ -3,21 +3,7 @@
     "symbol": "OVO",
     "image": "https://gateway.irys.xyz/fX0WRJtbaC7x4J_LjPyi0KkVMX4kiDryx0yzYo-Cl1A",
     "uri": "https://raw.githubusercontent.com/moinizzle/solana/master/OVOToken/public/OVOToken-metadata.json",
-    "properties": {
-      "files": [
-        {
-          "uri": "https://gateway.irys.xyz/LJGOqe3MRR4ZaM8BtUtqxQjZMzeYgDoxqcIoxyGJcm4",
-          "type": "image/png"
-        }
-      ],
-      "category": "image",
-      "creators": [
-        {
-          "address": "3pMacZtVPcjnZNXg1vXy42hWhsAAay8NYP9x8VvQcX2h",
-          "share": 100
-        }
-      ]
-    },
+    "logoURI": "https://raw.githubusercontent.com/moinizzle/solana/master/OVOToken/public/OVOToken-metadata.json",
     "description": "October's Very Own. You Only Live Once."
   }
   
