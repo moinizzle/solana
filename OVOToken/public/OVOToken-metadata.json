@@ -1,10 +1,9 @@
 {
-    "name": "OVOToken",
+    "name": "OVO",
     "symbol": "OVO",
-    "image": "https://gateway.irys.xyz/fX0WRJtbaC7x4J_LjPyi0KkVMX4kiDryx0yzYo-Cl1A",
+    "image": "https://i.pinimg.com/564x/3c/20/2a/3c202ac91ea26101e49a787813394a2e.jpg",
     "uri": "https://raw.githubusercontent.com/moinizzle/solana/master/OVOToken/public/OVOToken-metadata.json",
-    "logoURI": "https://gateway.irys.xyz/fX0WRJtbaC7x4J_LjPyi0KkVMX4kiDryx0yzYo-Cl1A",
+    "logoURI": "https://i.pinimg.com/564x/3c/20/2a/3c202ac91ea26101e49a787813394a2e.jpg",
     "description": "October's Very Own. You Only Live Once.",
-    "icon": "https://gateway.irys.xyz/fX0WRJtbaC7x4J_LjPyi0KkVMX4kiDryx0yzYo-Cl1A"
+    "icon": "https://i.pinimg.com/564x/3c/20/2a/3c202ac91ea26101e49a787813394a2e.jpg"
   }
-  
