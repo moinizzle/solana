@@ -1,9 +1,6 @@
 {
     "name": "OVO",
     "symbol": "OVO",
-    "image": "https://i.pinimg.com/564x/3c/20/2a/3c202ac91ea26101e49a787813394a2e.jpg",
-    "uri": "https://raw.githubusercontent.com/moinizzle/solana/master/OVOToken/public/OVOToken-metadata.json",
-    "logoURI": "https://i.pinimg.com/564x/3c/20/2a/3c202ac91ea26101e49a787813394a2e.jpg",
-    "description": "October's Very Own. You Only Live Once.",
-    "icon": "https://i.pinimg.com/564x/3c/20/2a/3c202ac91ea26101e49a787813394a2e.jpg"
+    "description": "October's Very Own. OVO Sound. Independent Record Label.",
+    "image": "https://i.pinimg.com/564x/ca/d8/9d/cad89d21c5dc8beeae02ca59711d550f.jpg"   
   }
